@@ -1,0 +1,1397 @@
+﻿Log file open, 05/23/20 14:15:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPakFile: Display: Found Pak file ../../../AbilityFPS/Content/Paks/AbilityFPS-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../AbilityFPS/Content/Paks/AbilityFPS-WindowsNoEditor.pak.
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.037287
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1650
+LogInit: Compiled (64-bit): Feb 24 2020 20:52:55
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/AbilityFPS/WindowsNoEditor/AbilityFPS/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.23-05.15.19:397][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2020.05.23-05.15.19:397][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.23-05.15.19:397][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../AbilityFPS/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.05.23-05.15.19:397][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.23-05.15.19:397][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../AbilityFPS/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.05.23-05.15.19:397][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../AbilityFPS/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.05.23-05.15.19:397][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.23-05.15.19:397][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.23-05.15.19:397][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.23-05.15.19:397][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.23-05.15.19:397][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.23-05.15.19:397][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.23-05.15.19:397][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.23-05.15.19:397][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.23-05.15.19:397][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.23-05.15.19:397][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.23-05.15.19:397][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.23-05.15.19:397][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.23-05.15.19:397][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.23-05.15.19:397][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.23-05.15.19:398][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../AbilityFPS/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.05.23-05.15.19:398][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.23-05.15.19:398][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.23-05.15.19:398][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.23-05.15.19:398][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.23-05.15.19:398][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.23-05.15.19:398][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.23-05.15.19:398][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.23-05.15.19:398][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.23-05.15.19:398][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.23-05.15.19:398][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.23-05.15.19:398][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.23-05.15.19:398][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.23-05.15.19:398][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.23-05.15.19:398][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../AbilityFPS/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.05.23-05.15.19:400][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../AbilityFPS/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../AbilityFPS/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../AbilityFPS/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../AbilityFPS/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.23-05.15.19:400][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../AbilityFPS/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../AbilityFPS/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../AbilityFPS/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../AbilityFPS/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.23-05.15.19:401][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.23-05.15.19:401][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2020.05.23-05.15.19:401][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2020.05.23-05.15.19:403][  0]LogHAL: Display: Platform has ~ 16 GB [17115652096 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.23-05.15.19:403][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2020.05.23-05.15.19:403][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.23-05.15.19:403][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../AbilityFPS/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../AbilityFPS/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../AbilityFPS/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../AbilityFPS/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.23-05.15.19:403][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../AbilityFPS/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../AbilityFPS/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../AbilityFPS/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../AbilityFPS/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.23-05.15.19:404][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../AbilityFPS/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.05.23-05.15.19:404][  0]LogInit: Computer: DESKTOP-LB1QJGT
+[2020.05.23-05.15.19:404][  0]LogInit: User: ASUSDESKTOP
+[2020.05.23-05.15.19:404][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.05.23-05.15.19:404][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.23-05.15.19:405][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.05.23-05.15.19:405][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2020.05.23-05.15.19:405][  0]LogMemory: Process Physical Memory: 58.59 MB used, 58.59 MB peak
+[2020.05.23-05.15.19:405][  0]LogMemory: Process Virtual Memory: 70.04 MB used, 70.04 MB peak
+[2020.05.23-05.15.19:405][  0]LogMemory: Physical Memory: 6815.26 MB used,  9507.50 MB free, 16322.76 MB total
+[2020.05.23-05.15.19:405][  0]LogMemory: Virtual Memory: 4904.32 MB used,  134212824.00 MB free, 134217728.00 MB total
+[2020.05.23-05.15.19:407][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.23-05.15.19:425][  0]LogInit: Using OS detected language (ja-JP).
+[2020.05.23-05.15.19:425][  0]LogInit: Using OS detected locale (ja-JP).
+[2020.05.23-05.15.19:425][  0]LogTextLocalizationManager: No localization for 'ja-JP' exists, so 'en' will be used for the language.
+[2020.05.23-05.15.19:425][  0]LogTextLocalizationManager: No localization for 'ja-JP' exists, so 'en' will be used for the locale.
+[2020.05.23-05.15.19:458][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.23-05.15.19:458][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.23-05.15.19:468][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.23-05.15.19:468][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.23-05.15.19:468][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.23-05.15.19:468][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.23-05.15.19:544][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2020.05.23-05.15.19:544][  0]LogD3D11RHI:       3962/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.05.23-05.15.19:546][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.23-05.15.19:546][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.23-05.15.19:546][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.23-05.15.19:553][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.23-05.15.19:553][  0]LogD3D11RHI:     GPU DeviceId: 0x1f82 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.23-05.15.19:553][  0]LogWindows: EnumDisplayDevices:
+[2020.05.23-05.15.19:553][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1650' (P:1 D:1)
+[2020.05.23-05.15.19:553][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1650' (P:0 D:1)
+[2020.05.23-05.15.19:554][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2020.05.23-05.15.19:554][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2020.05.23-05.15.19:554][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.05.23-05.15.19:554][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.05.23-05.15.19:554][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2020.05.23-05.15.19:594][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.05.23-05.15.19:594][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.23-05.15.19:612][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.23-05.15.19:642][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.23-05.15.19:645][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.23-05.15.19:646][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.23-05.15.19:688][  0]LogInit: Using OS detected language (ja-JP).
+[2020.05.23-05.15.19:688][  0]LogInit: Using OS detected locale (ja-JP).
+[2020.05.23-05.15.19:689][  0]LogTextLocalizationManager: No localization for 'ja-JP' exists, so 'en' will be used for the language.
+[2020.05.23-05.15.19:689][  0]LogTextLocalizationManager: No localization for 'ja-JP' exists, so 'en' will be used for the locale.
+[2020.05.23-05.15.19:690][  0]LogTextLocalizationManager: Compacting localization data took   0.67ms
+[2020.05.23-05.15.19:696][  0]LogAssetRegistry: FAssetRegistry took 0.0058 seconds to start up
+[2020.05.23-05.15.19:788][  0]LogStreaming: Display: Flushing async loaders.
+[2020.05.23-05.15.19:789][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.000062 seconds
+[2020.05.23-05.15.19:789][  0]LogPakFile: New pak file ../../../AbilityFPS/Content/Paks/AbilityFPS-WindowsNoEditor.pak added to pak precacher.
+[2020.05.23-05.15.19:792][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2020.05.23-05.15.19:800][  0]LogNetVersion: AbilityFPS 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3695588488)
+[2020.05.23-05.15.19:838][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.23-05.15.19:838][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.23-05.15.19:875][  0]LogMoviePlayer: Initializing movie player
+[2020.05.23-05.15.19:876][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.23-05.15.19:876][  0]LogOcInput: OculusInput pre-init called
+[2020.05.23-05.15.19:880][  0]LogUObjectArray: 42683 objects as part of root set at end of initial load.
+[2020.05.23-05.15.19:881][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2020.05.23-05.15.19:881][  0]LogUObjectAllocator: 6351568 out of 0 bytes used by permanent object pool.
+[2020.05.23-05.15.19:881][  0]LogUObjectArray: CloseDisregardForGC: 42683/42683 objects in disregard for GC pool
+[2020.05.23-05.15.19:882][  0]LogEngine: Initializing Engine...
+[2020.05.23-05.15.19:882][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.23-05.15.19:883][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.23-05.15.19:980][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.23-05.15.19:980][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.23-05.15.19:980][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.23-05.15.19:980][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.23-05.15.19:980][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.23-05.15.19:980][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.23-05.15.19:980][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.23-05.15.19:980][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.23-05.15.19:980][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.23-05.15.19:980][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.23-05.15.19:980][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.23-05.15.19:984][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.23-05.15.20:017][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.23-05.15.20:017][  0]LogAudioMixer: Display: Name: LCD-MF234X (NVIDIA High Definition Audio)
+[2020.05.23-05.15.20:017][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.05.23-05.15.20:017][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.23-05.15.20:017][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.23-05.15.20:017][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.23-05.15.20:017][  0]LogAudioMixer: Display: Channel Order:
+[2020.05.23-05.15.20:017][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.23-05.15.20:017][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.23-05.15.20:042][  0]LogAudioMixer: Display: Using Audio Device LCD-MF234X (NVIDIA High Definition Audio)
+[2020.05.23-05.15.20:044][  0]LogInit: FAudioDevice initialized.
+[2020.05.23-05.15.20:044][  0]LogNetVersion: Set ProjectVersion to 1.1.2. Version Checksum will be recalculated on next use.
+[2020.05.23-05.15.20:044][  0]LogInit: Texture streaming: Enabled
+[2020.05.23-05.15.20:050][  0]LogBlueprintUserMessages: [BP_GameInstance_C_2147482604] Init
+[2020.05.23-05.15.20:051][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.23-05.15.20:051][  0]LogInit: Display: Game Engine Initialized.
+[2020.05.23-05.15.20:052][  0]LogInit: Display: Starting Game.
+[2020.05.23-05.15.20:052][  0]LogNet: Browse: /Game/myfolder/Maps/Test/EnemyTest?Name=Player
+[2020.05.23-05.15.20:052][  0]LogLoad: LoadMap: /Game/myfolder/Maps/Test/EnemyTest?Name=Player
+[2020.05.23-05.15.20:052][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2020.05.23-05.15.20:053][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.23-05.15.20:053][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.23-05.15.20:056][  0]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.23-05.15.20:058][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.05.23-05.15.20:060][  0]LogStreaming: Error: Couldn't find file for package /Game/SuperGrid/StarterPack/Blueprints/SuperGrid_DynamicStairs requested by async loading code. NameToLoad: /Game/SuperGrid/StarterPack/Blueprints/SuperGrid_DynamicStairs
+[2020.05.23-05.15.20:060][  0]LogStreaming: Error: Found 1 dependent packages...
+[2020.05.23-05.15.20:061][  0]LogStreaming: Error:   /Game/myfolder/Maps/Test/EnemyTest
+[2020.05.23-05.15.20:064][  0]LogStreaming: Error: Couldn't find file for package /Game/StarterContent/Audio/Explosion01 requested by async loading code. NameToLoad: /Game/StarterContent/Audio/Explosion01
+[2020.05.23-05.15.20:065][  0]LogStreaming: Error: Found 1 dependent packages...
+[2020.05.23-05.15.20:065][  0]LogStreaming: Error:   /Game/myfolder/blueprint/Pawn/BP_ReverseEnemy
+[2020.05.23-05.15.20:091][  0]LogStreaming: Error: ****DumpDependencies [Dependencies]:
+[2020.05.23-05.15.20:091][  0]LogStreaming: Error:     Export 105 /Game/myfolder/Maps/Test/EnemyTest.EnemyTest:PersistentLevel.SuperGrid_DynamicStairs_2
+[2020.05.23-05.15.20:091][  0]LogStreaming: Error:     Linker is ../../../AbilityFPS/Content/myfolder/Maps/Test/EnemyTest.umap
+[2020.05.23-05.15.20:091][  0]LogStreaming: Error:         Dep C_BEFORE_S Export    34    /Game/myfolder/Maps/Test/EnemyTest.EnemyTest:PersistentLevel.SuperGrid_DynamicStairs_2.InstanceMesh     (class InstancedStaticMeshComponent)
+[2020.05.23-05.15.20:091][  0]LogStreaming: Error:         Dep C_BEFORE_S Export    78    /Game/myfolder/Maps/Test/EnemyTest.EnemyTest:PersistentLevel.SuperGrid_DynamicStairs_2.Scene     (class SceneComponent)
+[2020.05.23-05.15.20:091][  0]LogStreaming: Error:         Dep S_BEFORE_C Import    32   /Game/SuperGrid/StarterPack/Blueprints/SuperGrid_DynamicStairs.SuperGrid_DynamicStairs_C
+[2020.05.23-05.15.20:091][  0]LogStreaming: Error:         Dep S_BEFORE_C Import   208   /Game/SuperGrid/StarterPack/Blueprints/SuperGrid_DynamicStairs.Default__SuperGrid_DynamicStairs_C
+[2020.05.23-05.15.20:091][  0]LogStreaming: Error:         Dep C_BEFORE_C Export    36    /Game/myfolder/Maps/Test/EnemyTest.EnemyTest:PersistentLevel     (class Level)
+[2020.05.23-05.15.20:091][  0]LogStreaming: Error: Missing Dependency, request for /Game/SuperGrid/StarterPack/Blueprints/SuperGrid_DynamicStairs.SuperGrid_DynamicStairs_C but it hasn't been created yet.
+[2020.05.23-05.15.20:091][  0]LogStreaming: Error: Could not find class SuperGrid_DynamicStairs_C to create SuperGrid_DynamicStairs_2
+[2020.05.23-05.15.20:091][  0]LogStreaming: Error: Could not find outer SuperGrid_DynamicStairs_2 to create InstanceMesh
+[2020.05.23-05.15.20:091][  0]LogStreaming: Error: Could not find outer SuperGrid_DynamicStairs_2 to create Scene
+[2020.05.23-05.15.20:219][  0]LogAIModule: Creating AISystem for world EnemyTest
+[2020.05.23-05.15.20:219][  0]LogLoad: Game class is 'ShooterGameMode_C'
+[2020.05.23-05.15.20:225][  0]LogWorld: Bringing World /Game/myfolder/Maps/Test/EnemyTest.EnemyTest up for play (max tick rate 0) at 2020.05.23-14.15.20
+[2020.05.23-05.15.20:226][  0]LogWorld: Bringing up level for play took: 0.005283
+[2020.05.23-05.15.20:229][  0]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.05.23-05.15.20:229][  0]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.05.23-05.15.20:230][  0]LogUMG: Display: Widget Class WBP_HPBar_C - Loaded Fast Template.
+[2020.05.23-05.15.20:231][  0]LogUMG: Display: Widget Class GameUI_C - Loaded Fast Template.
+[2020.05.23-05.15.20:232][  0]LogLoad: Took 0.179812 seconds to LoadMap(/Game/myfolder/Maps/Test/EnemyTest)
+[2020.05.23-05.15.20:259][  0]LogSlate: Took 0.026264 seconds to synchronously load lazily loaded font '../../../AbilityFPS/Content/myfolder/Contents/Font/KintoSans-Black.ufont' (4893K)
+[2020.05.23-05.15.20:260][  0]LogSlate: Took 0.000747 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2020.05.23-05.15.20:270][  0]LogSlate: Took 0.000776 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.23-05.15.20:276][  0]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2020.05.23-05.15.20:276][  0]LogLoad: (Engine Initialization) Total time: 1.01 seconds
+[2020.05.23-05.15.20:309][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.23-05.15.20:524][  2]LogRenderer: Reallocating scene render targets to support 128x128 Format 10 NumSamples 1 (Frame:1).
+[2020.05.23-05.15.20:560][  2]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:2).
+[2020.05.23-05.15.20:685][ 15]LogPakFile: Precache HighWater 16MB
+
+[2020.05.23-05.15.22:904][310]LogBlueprintUserMessages: [BP_ReverseEnemy_2] 
+[2020.05.23-05.15.22:905][310]LogBlueprintUserMessages: [BP_ReverseEnemy_2] 
+[2020.05.23-05.15.25:866][735]LogNet: Browse: /Game/myfolder/Maps/Main/Stage1
+[2020.05.23-05.15.25:866][735]LogLoad: LoadMap: /Game/myfolder/Maps/Main/Stage1
+[2020.05.23-05.15.25:866][735]LogWorld: BeginTearingDown for /Game/myfolder/Maps/Test/EnemyTest
+[2020.05.23-05.15.25:867][735]LogWorld: UWorld::CleanupWorld for EnemyTest, bSessionEnded=true, bCleanupResources=true
+[2020.05.23-05.15.25:867][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.23-05.15.25:892][735]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.23-05.15.25:892][735]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.23-05.15.25:898][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.05.23-05.15.25:901][735]LogStreaming: Display: Flushing async loaders.
+[2020.05.23-05.15.26:108][735]LogAIModule: Creating AISystem for world Stage1
+[2020.05.23-05.15.26:108][735]LogLoad: Game class is 'ShooterGameMode_C'
+[2020.05.23-05.15.26:123][735]LogWorld: Bringing World /Game/myfolder/Maps/Main/Stage1.Stage1 up for play (max tick rate 0) at 2020.05.23-14.15.26
+[2020.05.23-05.15.26:125][735]LogWorld: Bringing up level for play took: 0.015657
+[2020.05.23-05.15.26:126][735]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.05.23-05.15.26:126][735]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.05.23-05.15.26:126][735]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.05.23-05.15.26:126][735]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.05.23-05.15.26:126][735]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.05.23-05.15.26:126][735]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.05.23-05.15.26:126][735]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.05.23-05.15.26:126][735]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.05.23-05.15.26:126][735]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.05.23-05.15.26:126][735]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.05.23-05.15.26:126][735]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.05.23-05.15.26:126][735]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.05.23-05.15.26:126][735]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.05.23-05.15.26:126][735]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.05.23-05.15.26:126][735]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.05.23-05.15.26:126][735]LogScript: Warning: Script Msg: SetTimer passed a negative time or initial start delay.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2020.05.23-05.15.26:127][735]LogUMG: Display: Widget Class WBP_HPBar_C - Loaded Fast Template.
+[2020.05.23-05.15.26:127][735]LogUMG: Display: Widget Class GameUI_C - Loaded Fast Template.
+[2020.05.23-05.15.26:127][735]LogLoad: Took 0.261426 seconds to LoadMap(/Game/myfolder/Maps/Main/Stage1)
+[2020.05.23-05.15.26:162][735]LogSlate: Took 0.029917 seconds to synchronously load lazily loaded font '../../../AbilityFPS/Content/myfolder/Contents/Font/KintoSans-Black.ufont' (4893K)
+[2020.05.23-05.15.26:165][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.23-05.15.26:169][736]LogSlate: Took 0.000959 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2020.05.23-05.15.26:195][736]LogSlate: Took 0.025338 seconds to synchronously load lazily loaded font '../../../AbilityFPS/Content/myfolder/Contents/Font/KintoSans-Black.ufont' (4893K)
+[2020.05.23-05.15.31:392][922]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-847.707 Y=4719.396 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.15.31:392][922]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-821.463 Y=4710.719 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.15.31:807][938]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-477.721 Y=14762.662 Z=1850.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.15.33:613][  9]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9951.197 Y=8941.560 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.15.33:615][  9]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12484.479 Y=16278.660 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.15.38:096][170]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4672.158 Y=8042.548 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.15.41:359][291]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9938.520 Y=8922.277 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.15.41:360][291]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12482.547 Y=16270.939 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.15.41:915][315]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482194] 
+[2020.05.23-05.15.41:915][315]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482194] 
+[2020.05.23-05.15.42:491][338]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2347.337 Y=-1107.397 Z=420.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.15.43:676][388]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14597.082 Y=9858.760 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.15.43:889][397]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8363.938 Y=20154.977 Z=560.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.15.44:223][411]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4658.376 Y=8052.095 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.15.44:223][411]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4654.844 Y=8064.675 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.15.44:224][411]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4659.316 Y=8064.448 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.15.46:354][501]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482188] 
+[2020.05.23-05.15.46:355][501]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482188] 
+[2020.05.23-05.15.46:507][507]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=10310.984 Y=332.761 Z=260.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.15.47:265][539]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481721] 
+[2020.05.23-05.15.47:265][539]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481721] 
+[2020.05.23-05.15.47:927][566]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-834.947 Y=4729.476 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.15.49:414][626]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481715] 
+[2020.05.23-05.15.49:414][626]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481715] 
+[2020.05.23-05.15.50:149][658]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12530.071 Y=2839.288 Z=270.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.15.50:800][684]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2342.430 Y=-1071.119 Z=420.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.15.55:173][826]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5045.200 Y=19994.664 Z=710.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.15.59:729][967]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-462.662 Y=20906.010 Z=840.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.21:951][726]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482355] 
+[2020.05.23-05.16.21:951][726]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482355] 
+[2020.05.23-05.16.22:513][745]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482256] 
+[2020.05.23-05.16.22:513][745]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482256] 
+[2020.05.23-05.16.22:514][745]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481280] 
+[2020.05.23-05.16.22:514][745]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481280] 
+[2020.05.23-05.16.22:514][745]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481286] 
+[2020.05.23-05.16.22:514][745]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481286] 
+[2020.05.23-05.16.22:515][745]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481824] 
+[2020.05.23-05.16.22:515][745]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481824] 
+[2020.05.23-05.16.26:737][886]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481106] 
+[2020.05.23-05.16.26:737][886]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481106] 
+[2020.05.23-05.16.28:808][958]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482262] 
+[2020.05.23-05.16.28:808][958]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482262] 
+[2020.05.23-05.16.30:499][ 17]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481830] 
+[2020.05.23-05.16.30:499][ 17]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481830] 
+[2020.05.23-05.16.30:500][ 17]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481112] 
+[2020.05.23-05.16.30:500][ 17]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481112] 
+[2020.05.23-05.16.30:500][ 17]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481136] 
+[2020.05.23-05.16.30:500][ 17]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481136] 
+[2020.05.23-05.16.31:027][ 35]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-472.529 Y=14798.354 Z=1850.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.31:046][ 36]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479678] 
+[2020.05.23-05.16.31:046][ 36]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479678] 
+[2020.05.23-05.16.31:046][ 36]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479684] 
+[2020.05.23-05.16.31:046][ 36]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479684] 
+[2020.05.23-05.16.31:046][ 36]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479690] 
+[2020.05.23-05.16.31:046][ 36]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479690] 
+[2020.05.23-05.16.31:115][ 38]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14567.152 Y=9851.675 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.31:742][ 59]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5018.731 Y=20022.336 Z=710.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.31:742][ 59]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5019.168 Y=20005.900 Z=710.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.32:183][ 75]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=774.936 Y=12337.404 Z=1020.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.33:107][108]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4673.163 Y=8069.894 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.34:650][162]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=10325.449 Y=363.058 Z=260.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.35:516][190]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9937.280 Y=8911.639 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.35:582][192]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12482.043 Y=16278.092 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.35:582][192]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12488.277 Y=16270.222 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.36:008][206]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482425] 
+[2020.05.23-05.16.36:008][206]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482425] 
+[2020.05.23-05.16.37:019][238]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=7009.775 Y=14133.802 Z=420.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.43:252][442]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9942.106 Y=8939.731 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.43:800][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479536] 
+[2020.05.23-05.16.43:800][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479536] 
+[2020.05.23-05.16.43:801][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482080] 
+[2020.05.23-05.16.43:801][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482080] 
+[2020.05.23-05.16.43:801][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481645] 
+[2020.05.23-05.16.43:802][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481645] 
+[2020.05.23-05.16.43:802][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481242] 
+[2020.05.23-05.16.43:802][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481242] 
+[2020.05.23-05.16.43:802][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479524] 
+[2020.05.23-05.16.43:802][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479524] 
+[2020.05.23-05.16.43:803][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482074] 
+[2020.05.23-05.16.43:803][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482074] 
+[2020.05.23-05.16.43:803][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482041] 
+[2020.05.23-05.16.43:803][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482041] 
+[2020.05.23-05.16.43:803][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482405] 
+[2020.05.23-05.16.43:803][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482405] 
+[2020.05.23-05.16.43:804][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482035] 
+[2020.05.23-05.16.43:804][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482035] 
+[2020.05.23-05.16.43:804][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482431] 
+[2020.05.23-05.16.43:805][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482431] 
+[2020.05.23-05.16.43:805][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479084] 
+[2020.05.23-05.16.43:806][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479084] 
+[2020.05.23-05.16.43:806][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481651] 
+[2020.05.23-05.16.43:806][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481651] 
+[2020.05.23-05.16.43:806][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479090] 
+[2020.05.23-05.16.43:806][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479090] 
+[2020.05.23-05.16.43:807][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481254] 
+[2020.05.23-05.16.43:807][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481254] 
+[2020.05.23-05.16.43:807][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482047] 
+[2020.05.23-05.16.43:807][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482047] 
+[2020.05.23-05.16.43:808][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479530] 
+[2020.05.23-05.16.43:808][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479530] 
+[2020.05.23-05.16.43:808][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481591] 
+[2020.05.23-05.16.43:808][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481591] 
+[2020.05.23-05.16.43:808][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482399] 
+[2020.05.23-05.16.43:809][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482399] 
+[2020.05.23-05.16.43:809][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479425] 
+[2020.05.23-05.16.43:810][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479425] 
+[2020.05.23-05.16.43:810][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479078] 
+[2020.05.23-05.16.43:810][460]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479078] 
+[2020.05.23-05.16.43:877][462]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8355.227 Y=20129.107 Z=560.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.43:878][462]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8343.965 Y=20122.539 Z=560.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.43:878][462]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8374.084 Y=20130.695 Z=560.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.44:715][486]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12535.746 Y=2829.645 Z=270.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.44:716][486]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12534.778 Y=2833.854 Z=270.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.45:324][506]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=20763.855 Y=12742.738 Z=480.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.45:324][506]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=20760.832 Y=12741.397 Z=480.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.45:326][506]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4644.736 Y=8044.375 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.45:326][506]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4646.955 Y=8035.556 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.45:327][506]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4661.695 Y=8049.859 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.45:327][506]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4670.143 Y=8043.480 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.45:874][525]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=7010.573 Y=14168.646 Z=420.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.45:874][525]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=6981.038 Y=14143.687 Z=420.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.46:393][543]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5035.305 Y=20004.684 Z=710.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.46:393][543]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5034.364 Y=20009.984 Z=710.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.46:394][543]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5041.502 Y=20017.568 Z=710.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.46:926][561]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=754.804 Y=12312.240 Z=1020.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.46:927][561]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=772.860 Y=12307.494 Z=1020.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.47:608][583]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12084.077 Y=11005.791 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.48:427][611]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=10303.095 Y=356.911 Z=260.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.48:428][611]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=10310.725 Y=333.710 Z=260.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.48:428][611]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=10302.606 Y=346.052 Z=260.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.48:488][613]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-849.052 Y=4730.391 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.48:807][624]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-466.108 Y=14771.384 Z=1850.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.48:808][624]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-458.578 Y=14779.161 Z=1850.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.48:903][627]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14579.252 Y=9829.580 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.48:903][627]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14566.381 Y=9846.896 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.48:904][627]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14596.396 Y=9851.636 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.48:983][630]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2352.378 Y=-1108.623 Z=420.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.50:491][679]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-477.697 Y=20895.865 Z=840.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.50:491][679]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-465.246 Y=20882.395 Z=840.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.50:975][694]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9931.178 Y=8940.816 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.51:039][696]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12468.394 Y=16274.241 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.51:039][696]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12481.443 Y=16289.166 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.53:467][778]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12075.039 Y=10989.167 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.53:467][778]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12063.729 Y=11009.304 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.54:840][823]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14573.379 Y=9857.097 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.54:840][823]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14582.528 Y=9847.458 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.54:841][823]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14560.521 Y=9840.837 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.57:588][908]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147478188] 
+[2020.05.23-05.16.57:588][908]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147478188] 
+[2020.05.23-05.16.57:588][908]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147478200] 
+[2020.05.23-05.16.57:588][908]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147478200] 
+[2020.05.23-05.16.57:589][908]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147478194] 
+[2020.05.23-05.16.57:589][908]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147478194] 
+[2020.05.23-05.16.57:589][908]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147478045] 
+[2020.05.23-05.16.57:590][908]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147478045] 
+[2020.05.23-05.16.57:590][908]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481597] 
+[2020.05.23-05.16.57:591][908]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481597] 
+[2020.05.23-05.16.57:591][908]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479431] 
+[2020.05.23-05.16.57:592][908]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479431] 
+[2020.05.23-05.16.57:592][908]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477679] 
+[2020.05.23-05.16.57:592][908]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477679] 
+[2020.05.23-05.16.57:593][908]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477689] 
+[2020.05.23-05.16.57:593][908]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477689] 
+[2020.05.23-05.16.57:593][908]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477695] 
+[2020.05.23-05.16.57:593][908]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477695] 
+[2020.05.23-05.16.57:593][908]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147478039] 
+[2020.05.23-05.16.57:593][908]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147478039] 
+[2020.05.23-05.16.57:594][908]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147478206] 
+[2020.05.23-05.16.57:594][908]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147478206] 
+[2020.05.23-05.16.58:713][938]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9965.170 Y=8928.233 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.58:714][938]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9943.339 Y=8910.820 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.58:714][938]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9955.533 Y=8936.983 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.58:979][946]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-452.142 Y=20901.129 Z=840.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.58:980][946]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-456.373 Y=20883.148 Z=840.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.58:980][946]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-463.770 Y=20891.408 Z=840.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.59:308][956]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12083.810 Y=10982.054 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.59:308][956]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12087.921 Y=10975.297 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.59:309][956]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12080.696 Y=10979.696 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.59:524][963]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-840.757 Y=4742.388 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.59:525][963]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-848.774 Y=4719.928 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.16.59:525][963]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-846.667 Y=4711.608 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.00:769][  5]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14586.927 Y=9859.034 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.00:770][  5]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14594.820 Y=9820.367 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.00:770][  5]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14594.043 Y=9827.089 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.02:812][ 71]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477188] 
+[2020.05.23-05.17.02:812][ 71]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477188] 
+[2020.05.23-05.17.02:926][ 74]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12524.329 Y=2822.898 Z=270.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.02:927][ 74]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12527.817 Y=2839.933 Z=270.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.02:927][ 74]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12548.396 Y=2837.597 Z=270.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.03:418][ 89]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477194] 
+[2020.05.23-05.17.03:418][ 89]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477194] 
+[2020.05.23-05.17.03:669][ 96]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4661.600 Y=8033.039 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.03:670][ 96]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4650.380 Y=8063.535 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.04:937][137]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481248] 
+[2020.05.23-05.17.04:937][137]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481248] 
+[2020.05.23-05.17.05:147][143]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12060.452 Y=10993.747 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.05:578][157]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2348.775 Y=-1099.076 Z=420.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.05:578][157]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2341.678 Y=-1070.769 Z=420.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.05:579][157]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2356.851 Y=-1103.410 Z=420.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.07:791][228]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477605] 
+[2020.05.23-05.17.07:791][228]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477605] 
+[2020.05.23-05.17.10:965][341]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12067.910 Y=10981.467 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.10:966][341]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12072.551 Y=10983.732 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.12:546][396]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147476726] 
+[2020.05.23-05.17.12:547][396]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147476726] 
+[2020.05.23-05.17.12:547][396]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147476738] 
+[2020.05.23-05.17.12:548][396]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147476738] 
+[2020.05.23-05.17.12:548][396]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147476732] 
+[2020.05.23-05.17.12:549][396]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147476732] 
+[2020.05.23-05.17.12:549][396]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481274] 
+[2020.05.23-05.17.12:549][396]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481274] 
+[2020.05.23-05.17.12:550][396]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147476744] 
+[2020.05.23-05.17.12:550][396]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147476744] 
+[2020.05.23-05.17.12:625][398]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14569.277 Y=9825.787 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.12:625][398]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14587.972 Y=9846.436 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.12:626][398]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14582.973 Y=9839.903 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.12:626][398]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14571.521 Y=9832.728 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.14:294][447]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12497.800 Y=16257.979 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.14:294][447]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12484.904 Y=16288.940 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.14:294][447]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12477.667 Y=16266.179 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.14:295][447]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12470.326 Y=16274.372 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.16:800][524]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12071.785 Y=10987.551 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.16:801][524]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12073.183 Y=11001.657 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.25:898][847]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477081] 
+[2020.05.23-05.17.25:898][847]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477081] 
+[2020.05.23-05.17.26:248][858]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477611] 
+[2020.05.23-05.17.26:248][858]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477611] 
+[2020.05.23-05.17.26:248][858]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477087] 
+[2020.05.23-05.17.26:248][858]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477087] 
+[2020.05.23-05.17.32:614][ 65]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482248] 
+[2020.05.23-05.17.32:614][ 65]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482248] 
+[2020.05.23-05.17.36:581][198]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147476059] 
+[2020.05.23-05.17.36:581][198]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147476059] 
+[2020.05.23-05.17.36:916][209]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481816] 
+[2020.05.23-05.17.36:917][209]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481816] 
+[2020.05.23-05.17.36:918][209]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147476065] 
+[2020.05.23-05.17.36:918][209]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147476065] 
+[2020.05.23-05.17.36:918][209]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481810] 
+[2020.05.23-05.17.36:919][209]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481810] 
+[2020.05.23-05.17.36:919][209]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481268] 
+[2020.05.23-05.17.36:919][209]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481268] 
+[2020.05.23-05.17.36:920][209]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477847] 
+[2020.05.23-05.17.36:920][209]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477847] 
+[2020.05.23-05.17.37:519][228]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12486.604 Y=16269.738 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.37:520][228]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12474.375 Y=16276.271 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.37:521][228]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12488.875 Y=16265.000 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.37:521][228]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12485.952 Y=16263.317 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.42:408][399]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479066] 
+[2020.05.23-05.17.42:408][399]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479066] 
+[2020.05.23-05.17.42:408][399]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147474712] 
+[2020.05.23-05.17.42:408][399]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147474712] 
+[2020.05.23-05.17.42:409][399]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147474718] 
+[2020.05.23-05.17.42:409][399]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147474718] 
+[2020.05.23-05.17.42:409][399]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479060] 
+[2020.05.23-05.17.42:409][399]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479060] 
+[2020.05.23-05.17.42:409][399]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477853] 
+[2020.05.23-05.17.42:409][399]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477853] 
+[2020.05.23-05.17.45:255][496]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12481.002 Y=16264.121 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.17.51:037][699]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482242] 
+[2020.05.23-05.17.51:037][699]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482242] 
+[2020.05.23-05.17.53:493][802]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147474263] 
+[2020.05.23-05.17.53:494][802]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147474263] 
+[2020.05.23-05.17.54:312][838]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147474257] 
+[2020.05.23-05.17.54:312][838]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147474257] 
+[2020.05.23-05.17.56:238][922]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147474243] 
+[2020.05.23-05.17.56:238][922]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147474243] 
+[2020.05.23-05.18.01:709][119]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482391] 
+[2020.05.23-05.18.01:709][119]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482391] 
+[2020.05.23-05.18.01:895][125]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8354.611 Y=20145.869 Z=560.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.01:896][125]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8355.111 Y=20132.467 Z=560.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.01:896][125]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8367.927 Y=20150.096 Z=560.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.02:033][130]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482020] 
+[2020.05.23-05.18.02:033][130]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482020] 
+[2020.05.23-05.18.02:033][130]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147478509] 
+[2020.05.23-05.18.02:033][130]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147478509] 
+[2020.05.23-05.18.02:034][130]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479338] 
+[2020.05.23-05.18.02:034][130]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479338] 
+[2020.05.23-05.18.02:035][130]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147474249] 
+[2020.05.23-05.18.02:035][130]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147474249] 
+[2020.05.23-05.18.02:035][130]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482008] 
+[2020.05.23-05.18.02:035][130]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482008] 
+[2020.05.23-05.18.02:035][130]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479344] 
+[2020.05.23-05.18.02:035][130]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479344] 
+[2020.05.23-05.18.02:035][130]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482385] 
+[2020.05.23-05.18.02:036][130]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482385] 
+[2020.05.23-05.18.02:036][130]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479350] 
+[2020.05.23-05.18.02:037][130]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479350] 
+[2020.05.23-05.18.05:521][255]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481562] 
+[2020.05.23-05.18.05:521][255]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481562] 
+[2020.05.23-05.18.05:521][255]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482014] 
+[2020.05.23-05.18.05:521][255]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482014] 
+[2020.05.23-05.18.05:521][255]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147473299] 
+[2020.05.23-05.18.05:522][255]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147473299] 
+[2020.05.23-05.18.05:522][255]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147478515] 
+[2020.05.23-05.18.05:523][255]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147478515] 
+[2020.05.23-05.18.05:523][255]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481568] 
+[2020.05.23-05.18.05:523][255]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481568] 
+[2020.05.23-05.18.05:523][255]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147473305] 
+[2020.05.23-05.18.05:523][255]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147473305] 
+[2020.05.23-05.18.07:885][332]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8354.178 Y=20133.979 Z=560.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.07:886][332]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8362.010 Y=20138.230 Z=560.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.07:887][332]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8348.754 Y=20123.084 Z=560.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.08:489][351]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12493.581 Y=16283.515 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.08:489][351]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12498.039 Y=16276.550 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.08:490][351]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12497.354 Y=16251.876 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.13:358][509]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481884] 
+[2020.05.23-05.18.13:358][509]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481884] 
+[2020.05.23-05.18.13:885][525]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8360.263 Y=20137.666 Z=560.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.13:885][525]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8358.319 Y=20131.381 Z=560.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.13:886][525]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8365.935 Y=20145.287 Z=560.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.16:083][609]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147472927] 
+[2020.05.23-05.18.16:083][609]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147472927] 
+[2020.05.23-05.18.17:900][674]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147472917] 
+[2020.05.23-05.18.17:900][674]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147472917] 
+[2020.05.23-05.18.18:537][697]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147472933] 
+[2020.05.23-05.18.18:538][697]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147472933] 
+[2020.05.23-05.18.18:541][697]LogCharacterMovement: BP_ReverseEnemy_C_2147472513 is stuck and failed to move! Velocity: X=-21.50 Y=-60.41 Z=0.00 Location: X=7161.47 Y=18860.72 Z=96.05 Normal: X=0.93 Y=-0.07 Z=-0.36 PenetrationDepth:14.389 Actor:BP_HPCureOrb_C_2147472020 Component:Holo BoneName:None (0 other events since notify)
+[2020.05.23-05.18.19:247][724]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147472513] 
+[2020.05.23-05.18.19:248][724]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147472513] 
+[2020.05.23-05.18.19:248][724]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482289] 
+[2020.05.23-05.18.19:248][724]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482289] 
+[2020.05.23-05.18.19:248][724]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147472519] 
+[2020.05.23-05.18.19:248][724]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147472519] 
+[2020.05.23-05.18.19:249][724]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482295] 
+[2020.05.23-05.18.19:249][724]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147482295] 
+[2020.05.23-05.18.19:249][724]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479373] 
+[2020.05.23-05.18.19:249][724]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147479373] 
+[2020.05.23-05.18.19:883][745]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8344.524 Y=20138.150 Z=560.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.19:884][745]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8363.258 Y=20134.086 Z=560.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.20:362][761]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2333.801 Y=-1083.169 Z=420.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.20:364][761]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2349.773 Y=-1085.704 Z=420.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.20:364][761]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2328.069 Y=-1100.700 Z=420.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.20:608][769]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=20738.207 Y=12733.536 Z=480.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.20:608][769]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=20765.412 Y=12718.778 Z=480.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.20:608][769]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=20753.160 Y=12716.607 Z=480.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.20:610][769]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=20741.738 Y=12716.201 Z=480.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.21:012][785]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12074.821 Y=10972.022 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.21:012][785]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12092.336 Y=10976.888 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.21:013][785]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12091.826 Y=10992.506 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.21:508][805]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5020.875 Y=20015.367 Z=710.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.21:509][805]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5027.956 Y=19999.490 Z=710.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.21:510][805]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5022.264 Y=20002.531 Z=710.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.21:742][815]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12529.136 Y=2847.783 Z=270.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.21:743][815]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12543.729 Y=2825.757 Z=270.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.22:100][830]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-846.667 Y=4739.335 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.22:100][830]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-819.799 Y=4726.828 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.22:101][830]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-817.506 Y=4747.528 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.22:101][830]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-833.863 Y=4739.144 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.22:102][830]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-824.996 Y=4711.935 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.22:700][853]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=747.104 Y=12316.107 Z=1020.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.22:702][853]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=770.945 Y=12329.563 Z=1020.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.22:702][853]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=767.092 Y=12337.470 Z=1020.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.23:108][870]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4669.641 Y=8038.238 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.23:108][870]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4658.554 Y=8060.392 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.23:109][870]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4668.849 Y=8033.449 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.23:110][870]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4676.377 Y=8069.788 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.23:110][870]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4659.136 Y=8050.225 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.23:558][889]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-441.879 Y=14780.563 Z=1850.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.23:561][889]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-463.448 Y=20899.006 Z=840.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.23:562][889]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-454.451 Y=20894.131 Z=840.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.23:563][889]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-454.876 Y=20890.957 Z=840.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.23:654][893]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=7004.044 Y=14143.909 Z=420.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.23:655][893]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=6991.708 Y=14147.284 Z=420.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.23:776][898]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14573.022 Y=9823.866 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.23:777][898]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14593.168 Y=9828.503 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.23:777][898]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14560.110 Y=9849.611 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.23:780][898]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9954.587 Y=8918.343 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.23:780][898]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9942.778 Y=8927.123 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.23:970][906]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12467.828 Y=16275.759 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.23:972][906]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12499.521 Y=16286.910 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.23:973][906]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12489.694 Y=16283.022 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.24:715][935]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=10318.730 Y=343.030 Z=260.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.24:716][935]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=10291.293 Y=351.309 Z=260.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.24:716][935]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=10291.710 Y=332.283 Z=260.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.25:884][979]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8362.404 Y=20130.490 Z=560.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.25:886][979]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8350.742 Y=20129.504 Z=560.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.26:857][ 14]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12066.220 Y=10987.936 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.26:858][ 14]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12067.398 Y=10992.221 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.26:859][ 14]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12068.494 Y=10999.656 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.26:859][ 14]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12079.566 Y=11005.859 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.27:619][ 43]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-819.506 Y=4726.032 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.27:620][ 43]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-815.231 Y=4721.996 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.27:621][ 43]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-839.178 Y=4744.259 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.27:621][ 43]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-825.779 Y=4710.170 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.27:806][ 50]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12528.693 Y=2845.837 Z=270.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.27:807][ 50]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12533.527 Y=2855.896 Z=270.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.27:808][ 50]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12542.624 Y=2851.461 Z=270.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.28:561][ 82]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=20731.889 Y=12742.495 Z=480.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.28:562][ 82]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=20746.258 Y=12717.867 Z=480.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.28:669][ 86]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2344.393 Y=-1070.823 Z=420.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.28:669][ 86]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2354.391 Y=-1096.020 Z=420.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.28:670][ 86]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2335.605 Y=-1088.467 Z=420.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.28:671][ 86]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2337.272 Y=-1089.019 Z=420.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.28:838][ 92]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5043.968 Y=20010.156 Z=710.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.28:839][ 92]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5024.207 Y=20027.025 Z=710.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.28:840][ 92]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5030.425 Y=20023.352 Z=710.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.28:840][ 92]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5032.415 Y=20003.424 Z=710.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.29:223][108]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4642.197 Y=8059.583 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.29:223][108]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4641.154 Y=8050.481 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.29:224][108]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4644.108 Y=8068.433 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.29:224][108]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4649.385 Y=8032.382 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.29:225][108]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=4658.685 Y=8048.854 Z=160.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.29:466][118]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-465.416 Y=14792.904 Z=1850.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.29:466][118]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-466.699 Y=14798.979 Z=1850.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.29:467][118]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-471.451 Y=14786.729 Z=1850.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.29:467][118]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-455.701 Y=14773.885 Z=1850.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.29:707][128]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14583.028 Y=9850.701 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.29:707][128]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14592.105 Y=9826.304 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.29:708][128]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14563.428 Y=9820.219 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.29:708][128]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14561.034 Y=9858.765 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.30:046][142]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=776.992 Y=12326.798 Z=1020.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.30:046][142]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=758.899 Y=12314.658 Z=1020.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.31:519][199]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9936.404 Y=8915.634 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.31:520][199]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9941.521 Y=8922.483 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.31:571][201]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=10299.189 Y=364.062 Z=260.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.31:573][201]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=10295.235 Y=369.208 Z=260.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.31:573][201]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=10290.548 Y=338.006 Z=260.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.31:706][206]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12475.479 Y=16271.761 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.31:707][206]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12460.199 Y=16271.003 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.31:907][213]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8352.009 Y=20150.199 Z=560.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.31:908][213]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8373.876 Y=20138.617 Z=560.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.31:908][213]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8369.708 Y=20150.082 Z=560.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.31:908][213]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8365.887 Y=20141.697 Z=560.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.32:021][218]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-473.021 Y=20897.404 Z=840.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.32:021][218]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-458.649 Y=20904.773 Z=840.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.32:021][218]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-470.173 Y=20891.574 Z=840.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.32:555][239]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=6994.375 Y=14135.961 Z=420.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.32:557][239]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=6983.608 Y=14135.597 Z=420.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.32:557][239]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=7005.152 Y=14142.567 Z=420.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.32:558][239]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=6992.804 Y=14144.047 Z=420.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.32:700][245]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12093.506 Y=10975.429 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.32:701][245]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12082.717 Y=10990.726 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.32:701][245]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12083.016 Y=10999.298 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.35:403][356]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-460.193 Y=14769.702 Z=1850.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.35:403][356]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-441.560 Y=14760.033 Z=1850.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.35:404][356]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-479.927 Y=14782.521 Z=1850.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.36:159][389]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5044.014 Y=19994.469 Z=710.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.36:160][389]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5013.583 Y=20029.330 Z=710.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.36:160][389]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5023.422 Y=20014.604 Z=710.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.37:432][444]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=750.714 Y=12310.781 Z=1020.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.37:433][444]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=749.270 Y=12336.088 Z=1020.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.37:433][444]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=777.841 Y=12338.847 Z=1020.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.37:434][444]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=746.725 Y=12324.565 Z=1020.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.39:266][520]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9964.170 Y=8930.276 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.39:266][520]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9943.246 Y=8925.386 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.39:267][520]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9951.139 Y=8925.605 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.39:267][520]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9942.386 Y=8935.592 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.39:268][520]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9930.245 Y=8918.041 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.41:446][613]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=6988.790 Y=14136.938 Z=420.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.41:447][613]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=7009.825 Y=14165.011 Z=420.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.18.59:053][217]LogBlueprintUserMessages: [Boss] 
+[2020.05.23-05.18.59:054][217]LogBlueprintUserMessages: [Boss] 
+[2020.05.23-05.19.00:967][283]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471666] 
+[2020.05.23-05.19.00:967][283]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471666] 
+[2020.05.23-05.19.00:967][283]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471055] 
+[2020.05.23-05.19.00:967][283]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471055] 
+[2020.05.23-05.19.00:968][283]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471039] 
+[2020.05.23-05.19.00:968][283]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471039] 
+[2020.05.23-05.19.00:968][283]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481385] 
+[2020.05.23-05.19.00:968][283]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147481385] 
+[2020.05.23-05.19.00:968][283]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147478306] 
+[2020.05.23-05.19.00:968][283]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147478306] 
+[2020.05.23-05.19.00:969][283]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471674] 
+[2020.05.23-05.19.00:969][283]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471674] 
+[2020.05.23-05.19.01:899][316]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8340.566 Y=20145.537 Z=560.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.19.01:900][316]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8366.296 Y=20120.650 Z=560.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.19.01:900][316]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8371.828 Y=20131.758 Z=560.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.19.01:901][316]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=8365.427 Y=20131.686 Z=560.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.19.02:983][353]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471680] 
+[2020.05.23-05.19.02:983][353]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471680] 
+[2020.05.23-05.19.05:433][439]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5046.604 Y=20020.189 Z=710.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.19.05:434][439]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=5040.500 Y=20006.771 Z=710.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.19.07:137][496]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471898] 
+[2020.05.23-05.19.07:138][496]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471898] 
+[2020.05.23-05.19.07:659][513]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471880] 
+[2020.05.23-05.19.07:659][513]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471880] 
+[2020.05.23-05.19.11:179][632]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471886] 
+[2020.05.23-05.19.11:179][632]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471886] 
+[2020.05.23-05.19.12:455][678]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147480913] 
+[2020.05.23-05.19.12:455][678]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147480913] 
+[2020.05.23-05.19.14:284][746]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471892] 
+[2020.05.23-05.19.14:284][746]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471892] 
+[2020.05.23-05.19.22:400][ 14]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470300] 
+[2020.05.23-05.19.22:400][ 14]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470300] 
+[2020.05.23-05.19.22:400][ 14]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471270] 
+[2020.05.23-05.19.22:400][ 14]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471270] 
+[2020.05.23-05.19.22:401][ 14]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470294] 
+[2020.05.23-05.19.22:401][ 14]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470294] 
+[2020.05.23-05.19.22:401][ 14]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471284] 
+[2020.05.23-05.19.22:401][ 14]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471284] 
+[2020.05.23-05.19.22:401][ 14]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147472861] 
+[2020.05.23-05.19.22:401][ 14]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147472861] 
+[2020.05.23-05.19.22:402][ 14]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147472873] 
+[2020.05.23-05.19.22:402][ 14]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147472873] 
+[2020.05.23-05.19.25:889][109]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12484.124 Y=16250.658 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.19.25:890][109]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12473.758 Y=16273.478 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.19.25:891][109]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12470.222 Y=16250.448 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.19.25:891][109]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12471.521 Y=16282.648 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.19.26:086][115]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471278] 
+[2020.05.23-05.19.26:086][115]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471278] 
+[2020.05.23-05.19.26:087][115]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147472879] 
+[2020.05.23-05.19.26:087][115]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147472879] 
+[2020.05.23-05.19.26:087][115]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470306] 
+[2020.05.23-05.19.26:087][115]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470306] 
+[2020.05.23-05.19.26:087][115]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470286] 
+[2020.05.23-05.19.26:088][115]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470286] 
+[2020.05.23-05.19.37:755][465]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147465741] 
+[2020.05.23-05.19.37:755][465]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147465741] 
+[2020.05.23-05.19.37:759][465]LogCharacterMovement: BP_ReverseEnemy_C_2147465747 is stuck and failed to move! Velocity: X=-174.79 Y=-30.70 Z=0.00 Location: X=12675.06 Y=14438.61 Z=190.80 Normal: X=0.89 Y=-0.00 Z=-0.45 PenetrationDepth:5.613 Actor:BP_MPCureOrb_C_2147464721 Component:StaticMesh BoneName:None (0 other events since notify)
+[2020.05.23-05.19.38:633][495]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147465747] 
+[2020.05.23-05.19.38:634][495]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147465747] 
+[2020.05.23-05.19.39:587][525]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147465731] 
+[2020.05.23-05.19.39:587][525]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147465731] 
+[2020.05.23-05.19.41:376][583]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12473.896 Y=16263.377 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.19.41:377][583]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12493.158 Y=16287.819 Z=890.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.19.44:767][678]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147475898] 
+[2020.05.23-05.19.44:767][678]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147475898] 
+[2020.05.23-05.19.45:227][690]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147475892] 
+[2020.05.23-05.19.45:227][690]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147475892] 
+[2020.05.23-05.19.45:227][690]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471729] 
+[2020.05.23-05.19.45:228][690]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471729] 
+[2020.05.23-05.19.45:228][690]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147476342] 
+[2020.05.23-05.19.45:229][690]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147476342] 
+[2020.05.23-05.19.49:323][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147476175] 
+[2020.05.23-05.19.49:323][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147476175] 
+[2020.05.23-05.19.49:323][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477075] 
+[2020.05.23-05.19.49:323][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477075] 
+[2020.05.23-05.19.49:323][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147476336] 
+[2020.05.23-05.19.49:324][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147476336] 
+[2020.05.23-05.19.49:324][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470089] 
+[2020.05.23-05.19.49:324][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470089] 
+[2020.05.23-05.19.49:325][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470951] 
+[2020.05.23-05.19.49:325][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470951] 
+[2020.05.23-05.19.49:325][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147475886] 
+[2020.05.23-05.19.49:325][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147475886] 
+[2020.05.23-05.19.49:326][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471343] 
+[2020.05.23-05.19.49:326][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471343] 
+[2020.05.23-05.19.49:326][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470569] 
+[2020.05.23-05.19.49:327][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470569] 
+[2020.05.23-05.19.49:327][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470563] 
+[2020.05.23-05.19.49:327][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470563] 
+[2020.05.23-05.19.49:327][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471735] 
+[2020.05.23-05.19.49:327][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471735] 
+[2020.05.23-05.19.49:327][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470083] 
+[2020.05.23-05.19.49:327][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470083] 
+[2020.05.23-05.19.49:328][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147476328] 
+[2020.05.23-05.19.49:328][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147476328] 
+[2020.05.23-05.19.49:328][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470095] 
+[2020.05.23-05.19.49:328][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470095] 
+[2020.05.23-05.19.49:328][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470957] 
+[2020.05.23-05.19.49:329][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470957] 
+[2020.05.23-05.19.49:329][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147476322] 
+[2020.05.23-05.19.49:329][803]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147476322] 
+[2020.05.23-05.19.52:738][901]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14561.795 Y=9838.114 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.19.54:461][956]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12067.279 Y=10991.700 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.19.54:462][956]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12092.062 Y=10989.284 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.19.54:462][956]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12078.671 Y=10972.549 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.19.54:463][956]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12070.588 Y=10974.342 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.19.54:463][956]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12076.170 Y=10991.052 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.19.55:320][982]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147463451] 
+[2020.05.23-05.19.55:320][982]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147463451] 
+[2020.05.23-05.19.55:321][982]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147463463] 
+[2020.05.23-05.19.55:321][982]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147463463] 
+[2020.05.23-05.19.55:321][982]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471337] 
+[2020.05.23-05.19.55:322][982]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471337] 
+[2020.05.23-05.19.55:322][982]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147463445] 
+[2020.05.23-05.19.55:322][982]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147463445] 
+[2020.05.23-05.19.55:322][982]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147463457] 
+[2020.05.23-05.19.55:323][982]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147463457] 
+[2020.05.23-05.19.58:657][ 80]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14575.054 Y=9840.260 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.19.58:658][ 80]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14579.128 Y=9851.670 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.19.58:658][ 80]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14570.053 Y=9827.672 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.20.00:268][133]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12062.857 Y=10999.002 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.20.00:268][133]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12098.020 Y=10994.888 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.20.00:269][133]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12081.804 Y=11002.287 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.20.11:479][481]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470373] 
+[2020.05.23-05.20.11:480][481]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470373] 
+[2020.05.23-05.20.11:480][481]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147469521] 
+[2020.05.23-05.20.11:480][481]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147469521] 
+[2020.05.23-05.20.11:480][481]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477264] 
+[2020.05.23-05.20.11:480][481]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477264] 
+[2020.05.23-05.20.11:480][481]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147478657] 
+[2020.05.23-05.20.11:480][481]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147478657] 
+[2020.05.23-05.20.11:481][481]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470367] 
+[2020.05.23-05.20.11:481][481]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470367] 
+[2020.05.23-05.20.11:482][481]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147478645] 
+[2020.05.23-05.20.11:482][481]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147478645] 
+[2020.05.23-05.20.11:482][481]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477871] 
+[2020.05.23-05.20.11:482][481]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477871] 
+[2020.05.23-05.20.11:482][481]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147469515] 
+[2020.05.23-05.20.11:482][481]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147469515] 
+[2020.05.23-05.20.11:483][481]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471325] 
+[2020.05.23-05.20.11:483][481]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471325] 
+[2020.05.23-05.20.11:483][481]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471313] 
+[2020.05.23-05.20.11:483][481]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471313] 
+[2020.05.23-05.20.12:064][499]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9946.972 Y=8912.301 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.20.12:064][499]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9961.548 Y=8918.465 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.20.12:065][499]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9961.461 Y=8927.655 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.20.12:626][519]LogCharacterMovement: BP_ReverseEnemy_C_2147462802 is stuck and failed to move! Velocity: X=26.40 Y=10.67 Z=0.00 Location: X=12304.16 Y=11024.12 Z=600.05 Normal: X=-0.85 Y=-0.40 Z=0.34 PenetrationDepth:0.000 Actor:InstancedFoliageActor_0 Component:FoliageInstancedStaticMeshComponent_141 BoneName:None (0 other events since notify)
+[2020.05.23-05.20.18:686][722]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147463291] 
+[2020.05.23-05.20.18:687][722]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147463291] 
+[2020.05.23-05.20.20:086][767]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147462814] 
+[2020.05.23-05.20.20:086][767]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147462814] 
+[2020.05.23-05.20.20:086][767]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147463297] 
+[2020.05.23-05.20.20:086][767]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147463297] 
+[2020.05.23-05.20.20:086][767]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147462802] 
+[2020.05.23-05.20.20:086][767]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147462802] 
+[2020.05.23-05.20.20:087][767]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471319] 
+[2020.05.23-05.20.20:087][767]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147471319] 
+[2020.05.23-05.20.20:087][767]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147462796] 
+[2020.05.23-05.20.20:087][767]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147462796] 
+[2020.05.23-05.20.20:088][767]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147462808] 
+[2020.05.23-05.20.20:088][767]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147462808] 
+[2020.05.23-05.20.20:088][767]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147461899] 
+[2020.05.23-05.20.20:088][767]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147461899] 
+[2020.05.23-05.20.20:088][767]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470357] 
+[2020.05.23-05.20.20:089][767]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470357] 
+[2020.05.23-05.20.20:089][767]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147461909] 
+[2020.05.23-05.20.20:089][767]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147461909] 
+[2020.05.23-05.20.20:089][767]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147461921] 
+[2020.05.23-05.20.20:089][767]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147461921] 
+[2020.05.23-05.20.20:090][767]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147461915] 
+[2020.05.23-05.20.20:090][767]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147461915] 
+[2020.05.23-05.20.23:614][880]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12074.765 Y=10997.130 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.20.23:615][880]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12063.109 Y=10974.918 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.20.23:616][880]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=12064.104 Y=10992.528 Z=780.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.20.26:756][976]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147460977] 
+[2020.05.23-05.20.26:757][976]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147460977] 
+[2020.05.23-05.20.26:764][976]LogCharacterMovement: BP_ReverseEnemy_C_2147460983 is stuck and failed to move! Velocity: X=-11.67 Y=31.84 Z=0.00 Location: X=12010.58 Y=11081.17 Z=602.38 Normal: X=0.16 Y=0.78 Z=-0.61 PenetrationDepth:58.208 Actor:BP_HPCureOrb_C_2147460687 Component:Holo BoneName:None (0 other events since notify)
+[2020.05.23-05.20.26:994][983]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147460983] 
+[2020.05.23-05.20.26:994][983]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147460983] 
+[2020.05.23-05.20.27:495][997]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147460965] 
+[2020.05.23-05.20.27:496][997]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147460965] 
+[2020.05.23-05.20.27:553][998]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9966.792 Y=8945.378 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.20.27:554][998]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9951.720 Y=8911.026 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.20.27:555][998]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9946.825 Y=8939.956 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.20.27:556][998]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9953.909 Y=8939.382 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.20.27:939][ 10]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147462953] 
+[2020.05.23-05.20.27:939][ 10]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147462953] 
+[2020.05.23-05.20.33:410][179]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147478651] 
+[2020.05.23-05.20.33:410][179]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147478651] 
+[2020.05.23-05.20.35:299][234]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9938.718 Y=8947.393 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.20.35:300][234]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9963.150 Y=8947.528 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.20.35:300][234]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9953.732 Y=8915.092 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.20.35:301][234]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=9953.580 Y=8928.793 Z=1110.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.20.35:425][238]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147460605] 
+[2020.05.23-05.20.35:425][238]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147460605] 
+[2020.05.23-05.20.35:426][238]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477270] 
+[2020.05.23-05.20.35:426][238]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147477270] 
+[2020.05.23-05.20.35:426][238]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147460611] 
+[2020.05.23-05.20.35:427][238]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147460611] 
+[2020.05.23-05.20.36:669][272]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147460061] 
+[2020.05.23-05.20.36:669][272]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147460061] 
+[2020.05.23-05.20.37:113][285]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147460055] 
+[2020.05.23-05.20.37:113][285]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147460055] 
+[2020.05.23-05.20.49:771][698]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147476181] 
+[2020.05.23-05.20.49:771][698]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147476181] 
+[2020.05.23-05.20.52:031][776]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14599.896 Y=9824.966 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.20.52:032][776]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14584.277 Y=9834.191 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.20.52:033][776]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14580.531 Y=9824.451 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.20.52:033][776]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=14568.562 Y=9821.380 Z=770.000] for [BP_ReverseEnemy_C]
+[2020.05.23-05.20.53:142][815]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470575] 
+[2020.05.23-05.20.53:142][815]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147470575] 
+[2020.05.23-05.20.57:646][955]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147458874] 
+[2020.05.23-05.20.57:646][955]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147458874] 
+[2020.05.23-05.20.57:646][955]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147458880] 
+[2020.05.23-05.20.57:646][955]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147458880] 
+[2020.05.23-05.20.57:647][955]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147462935] 
+[2020.05.23-05.20.57:647][955]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147462935] 
+[2020.05.23-05.20.57:647][955]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147462947] 
+[2020.05.23-05.20.57:647][955]LogBlueprintUserMessages: [BP_ReverseEnemy_C_2147462947] 
+[2020.05.23-05.21.07:646][268]LogNet: Browse: /Game/myfolder/Maps/Test/ScoreTest
+[2020.05.23-05.21.07:646][268]LogLoad: LoadMap: /Game/myfolder/Maps/Test/ScoreTest
+[2020.05.23-05.21.07:646][268]LogWorld: BeginTearingDown for /Game/myfolder/Maps/Main/Stage1
+[2020.05.23-05.21.07:651][268]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2020.05.23-05.21.07:671][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.23-05.21.07:705][268]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.23-05.21.07:705][268]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.23-05.21.07:736][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.05.23-05.21.07:740][268]LogStreaming: Display: Flushing async loaders.
+[2020.05.23-05.21.07:750][268]LogAIModule: Creating AISystem for world ScoreTest
+[2020.05.23-05.21.07:750][268]LogLoad: Game class is 'ResultGamemode_C'
+[2020.05.23-05.21.07:751][268]LogWorld: Bringing World /Game/myfolder/Maps/Test/ScoreTest.ScoreTest up for play (max tick rate 0) at 2020.05.23-14.21.07
+[2020.05.23-05.21.07:751][268]LogWorld: Bringing up level for play took: 0.000179
+[2020.05.23-05.21.07:751][268]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.05.23-05.21.07:751][268]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.05.23-05.21.07:752][268]LogUMG: Display: Widget Class WBP_Result_C - Loaded Fast Template.
+[2020.05.23-05.21.07:753][268]LogLoad: Took 0.107301 seconds to LoadMap(/Game/myfolder/Maps/Test/ScoreTest)
+[2020.05.23-05.21.07:777][268]LogSlate: Took 0.022904 seconds to synchronously load lazily loaded font '../../../AbilityFPS/Content/myfolder/Contents/Font/KintoSans-Black.ufont' (4893K)
+[2020.05.23-05.21.07:782][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.23-05.21.07:806][269]LogSlate: Took 0.022315 seconds to synchronously load lazily loaded font '../../../AbilityFPS/Content/myfolder/Contents/Font/KintoSans-Black.ufont' (4893K)
+[2020.05.23-05.21.07:811][269]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 12269
+[2020.05.23-05.21.07:811][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.23-05.21.07:813][269]LogSlate: Slate font cache was flushed
+[2020.05.23-05.21.07:836][270]LogSlate: Took 0.021469 seconds to synchronously load lazily loaded font '../../../AbilityFPS/Content/myfolder/Contents/Font/KintoSans-Black.ufont' (4893K)
+[2020.05.23-05.21.09:881][770]Closing by request
+[2020.05.23-05.21.09:881][770]LogWindows: FPlatformMisc::RequestExit(0)
+[2020.05.23-05.21.09:881][770]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.05.23-05.21.09:886][771]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.05.23-05.21.09:902][771]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.23-05.21.09:922][771]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.23-05.21.09:938][771]LogInit: Display: PreExit Game.
+[2020.05.23-05.21.09:948][771]LogWorld: BeginTearingDown for /Game/myfolder/Maps/Test/ScoreTest
+[2020.05.23-05.21.09:948][771]LogWorld: UWorld::CleanupWorld for ScoreTest, bSessionEnded=true, bCleanupResources=true
+[2020.05.23-05.21.09:948][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.23-05.21.10:112][771]LogSlate: Request Window 'AbilityFPS (64-bit Development PCD3D_SM5) ' being destroyed
+[2020.05.23-05.21.10:119][771]LogSlate: Window 'AbilityFPS (64-bit Development PCD3D_SM5) ' being destroyed
+[2020.05.23-05.21.10:122][771]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Google 日本語入力).
+[2020.05.23-05.21.10:141][771]LogExit: Preparing to exit.
+[2020.05.23-05.21.10:141][771]LogMoviePlayer: Shutting down movie player
+[2020.05.23-05.21.10:152][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.23-05.21.10:153][771]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.05.23-05.21.10:154][771]LogExit: Game engine shut down
+[2020.05.23-05.21.10:185][771]LogExit: Object subsystem successfully closed.
+[2020.05.23-05.21.10:212][771]LogModuleManager: Shutting down and abandoning module AutomationController (270)
+[2020.05.23-05.21.10:212][771]LogModuleManager: Shutting down and abandoning module AutomationWorker (268)
+[2020.05.23-05.21.10:212][771]LogModuleManager: Shutting down and abandoning module Voice (266)
+[2020.05.23-05.21.10:212][771]LogModuleManager: Shutting down and abandoning module AIModule (264)
+[2020.05.23-05.21.10:213][771]LogModuleManager: Shutting down and abandoning module GameplayDebugger (263)
+[2020.05.23-05.21.10:213][771]LogModuleManager: Shutting down and abandoning module NavigationSystem (261)
+[2020.05.23-05.21.10:213][771]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (258)
+[2020.05.23-05.21.10:213][771]LogModuleManager: Shutting down and abandoning module WebMMedia (256)
+[2020.05.23-05.21.10:213][771]LogModuleManager: Shutting down and abandoning module OculusMR (254)
+[2020.05.23-05.21.10:213][771]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (252)
+[2020.05.23-05.21.10:213][771]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (250)
+[2020.05.23-05.21.10:213][771]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (248)
+[2020.05.23-05.21.10:213][771]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (246)
+[2020.05.23-05.21.10:213][771]LogModuleManager: Shutting down and abandoning module CharacterAI (244)
+[2020.05.23-05.21.10:213][771]LogModuleManager: Shutting down and abandoning module SessionServices (242)
+[2020.05.23-05.21.10:213][771]LogModuleManager: Shutting down and abandoning module LiveCoding (240)
+[2020.05.23-05.21.10:213][771]LogModuleManager: Shutting down and abandoning module LevelSequence (238)
+[2020.05.23-05.21.10:213][771]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (236)
+[2020.05.23-05.21.10:213][771]LogModuleManager: Shutting down and abandoning module MovieScene (234)
+[2020.05.23-05.21.10:213][771]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (232)
+[2020.05.23-05.21.10:213][771]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (230)
+[2020.05.23-05.21.10:213][771]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (228)
+[2020.05.23-05.21.10:220][771]LogModuleManager: Shutting down and abandoning module ProfilerService (226)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module TaskGraph (224)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (222)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module OculusInput (220)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (218)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module EditableMesh (216)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (214)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module CableComponent (212)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (209)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module AssetTags (206)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (204)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module AppleImageUtils (202)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module AndroidPermission (200)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module MediaCompositing (198)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module ImgMedia (196)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (194)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (192)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (190)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module BackChannel (188)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module AutomationUtils (186)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (184)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module GeometryCache (182)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module UObjectPlugin (180)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module AbilityFPS (178)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (176)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (172)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module ActorSequence (170)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module UdpMessaging (168)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module TcpMessaging (166)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (164)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (162)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (160)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (158)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (156)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (154)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (152)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (150)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module MagicLeapController (148)
+[2020.05.23-05.21.10:416][771]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (146)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module MagicLeapAR (144)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module AugmentedReality (143)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module FacialAnimation (140)
+[2020.05.23-05.21.10:416][771]LogModuleManager: Shutting down and abandoning module SignificanceManager (138)
+[2020.05.23-05.21.10:417][771]LogModuleManager: Shutting down and abandoning module AnimationSharing (136)
+[2020.05.23-05.21.10:417][771]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (134)
+[2020.05.23-05.21.10:417][771]LogModuleManager: Shutting down and abandoning module Paper2D (132)
+[2020.05.23-05.21.10:417][771]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (130)
+[2020.05.23-05.21.10:417][771]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (128)
+[2020.05.23-05.21.10:417][771]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (126)
+[2020.05.23-05.21.10:417][771]LogModuleManager: Shutting down and abandoning module PacketHandler (124)
+[2020.05.23-05.21.10:417][771]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (122)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module MediaAssets (120)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module Overlay (118)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module FunctionalTesting (116)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module MessageLog (114)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module UMG (112)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module SlateReflector (110)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module Slate (108)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module SlateCore (106)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module MRMesh (104)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module Messaging (102)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (100)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module XAudio2 (98)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module Networking (96)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module Core (94)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module ImageWrapper (90)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module ChaosSolvers (82)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (81)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module Chaos (78)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (76)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (75)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (72)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module SteamVRInput (70)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module SteamVR (68)
+[2020.05.23-05.21.10:418][771]LogHMD: Freeing OpenVRDLLHandle.
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module OculusHMD (66)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (64)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (62)
+[2020.05.23-05.21.10:418][771]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (58)
+[2020.05.23-05.21.10:419][771]LogModuleManager: Shutting down and abandoning module HTTP (53)
+[2020.05.23-05.21.10:436][771]LogModuleManager: Shutting down and abandoning module SSL (52)
+[2020.05.23-05.21.10:436][771]LogModuleManager: Shutting down and abandoning module WmfMedia (48)
+[2020.05.23-05.21.10:438][771]LogModuleManager: Shutting down and abandoning module Media (47)
+[2020.05.23-05.21.10:440][771]LogModuleManager: Shutting down and abandoning module MagicLeap (44)
+[2020.05.23-05.21.10:440][771]LogModuleManager: Shutting down and abandoning module VariantManagerContent (42)
+[2020.05.23-05.21.10:440][771]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.05.23-05.21.10:440][771]LogModuleManager: Shutting down and abandoning module AISupportModule (38)
+[2020.05.23-05.21.10:440][771]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (36)
+[2020.05.23-05.21.10:440][771]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (34)
+[2020.05.23-05.21.10:440][771]LogModuleManager: Shutting down and abandoning module PlatformCrypto (32)
+[2020.05.23-05.21.10:440][771]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.05.23-05.21.10:440][771]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.05.23-05.21.10:440][771]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.05.23-05.21.10:441][771]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.05.23-05.21.10:441][771]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.05.23-05.21.10:441][771]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.05.23-05.21.10:441][771]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.05.23-05.21.10:441][771]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.05.23-05.21.10:441][771]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.05.23-05.21.10:441][771]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.05.23-05.21.10:441][771]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.05.23-05.21.10:441][771]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.05.23-05.21.10:441][771]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.05.23-05.21.10:441][771]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.05.23-05.21.10:441][771]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.05.23-05.21.10:442][771]LogD3D11RHI: Shutdown
+[2020.05.23-05.21.10:442][771]LogD3D11RHI: CleanupD3DDevice
+[2020.05.23-05.21.10:471][771]LogExit: Exiting.
+[2020.05.23-05.21.10:481][771]Log file closed, 05/23/20 14:21:10
